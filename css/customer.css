@@ -1,0 +1,15 @@
+code {
+  color: #e83e8c;
+}
+
+.image-caption {
+  display: none;
+}
+
+/* banner */
+.banner .mask {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.2) !important;
+}
